@@ -4,6 +4,10 @@
 - Fonctionne sur le Casino et Cayo.
 - Dans GTA il y a 2 types de sauvegarde. Le fonctionnement du script est très simple, le script bloque le serveur utilisé pour effectuer la sauvegarde qui gère la progression des braquages. Cela empêche donc de sauvegarder le fait que vous ayez fait le braquage mais par contre l'argent lui se sauvegarde correctement.
 
+## Limites d'Utilisation
+- Pas plus de 30M par jour.
+- Attendre 20 minutes (correspondant au cooldown) entre chaque braquage.
+
 ## Prérequis
 - Télécharger le script AHK fait par mes soins dans le repo
 - Télécharger et installer le logiciel AHK v2 qui, est open source est sans risque : https://www.autohotkey.com/download/ahk-v2.exe
