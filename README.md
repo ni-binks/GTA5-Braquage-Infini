@@ -1,5 +1,7 @@
 # GTA5 Braquage Infini
 
+Vous pouvez suivre mon tutoriel sur Youtube : https://youtu.be/yKgMIc4V_74
+
 ## Fonctionnement
 - Fonctionne sur le Casino et Cayo.
 - Dans GTA il y a 2 types de sauvegarde. Le fonctionnement du script est très simple, le script bloque le serveur utilisé pour effectuer la sauvegarde qui gère la progression des braquages. Cela empêche donc de sauvegarder le fait que vous ayez fait le braquage mais par contre l'argent lui se sauvegarde correctement.
