@@ -8,7 +8,6 @@ Vous pouvez suivre mon tutoriel sur Youtube : https://youtu.be/yKgMIc4V_74
 
 ## Limites d'Utilisation
 - Pas plus de 30M par jour
-- Attendre 20 minutes (correspondant au cooldown) entre chaque braquage
 
 ## Prérequis
 - Télécharger le script AHK fait par mes soins dans le repo
@@ -32,3 +31,4 @@ Le signe ^ indique Ctrl. Il faut laisser le signe $ car il permet au script de p
 ## Problèmes Possibles
 - Si un message d'erreur apparaît au lancement du script en disant qu'il y a une erreur dans le code, c'est que vous avez installé la v1 de AHK et non pas la v2
 - Si le script affiche qu'il bloque la sauvegarde mais que le test ALT + F4 ne fonctionne pas, vérifiez que votre pare feu windows n'est pas désactivé par un antivirus tiers. Auquel cas débrouillez vous pour le réactiver
+- Si à la fin du braquage vous avez une erreur de transaction et ne recevez pas l'argent ça veut dire que vous avez relancé le braquage trop vite. C'est sans risque mais ducoup il vaut mieux attendre 10 minutes entre chaque braquage
